@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React, Node.js, Typescript, GraphQL<br><br>📫 How to reach me pro.anthony.limon@gmail.com<br><br>📄 Know about my experiences [![School]https://www.webacademie.org] [![Work]https://app.inara.fr/]
+🌱 I’m currently learning React, Node.js, Typescript, GraphQL<br><br>📫 How to reach me pro.anthony.limon@gmail.com<br><br>📄 Know about my experiences [![School](https://www.webacademie.org)] [![Work](https://app.inara.fr/)]
 
 
 ## 🌐 Socials:
