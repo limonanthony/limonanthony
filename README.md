@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript      10 hrs 46 mins  █████████████████████▓░░░   87.12 %
+Markdown        43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+SCSS            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+GraphQL         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+textmate        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+```
+
 <!--END_SECTION:waka-->
