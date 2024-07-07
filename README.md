@@ -17,7 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#                     1 hr 5 mins     █████████▒░░░░░░░░░░░░░░░   37.79 %
+YAML                   49 mins         ███████░░░░░░░░░░░░░░░░░░   28.46 %
+XML                    31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+SQL                    19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Markdown               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
