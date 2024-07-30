@@ -17,8 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#     32 mins         ████████████████████████▒   96.80 %
-YAML   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
