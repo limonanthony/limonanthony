@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React, Node.js, Typescript, GraphQL<br><br>📫 How to reach me pro@limonanthony.com<br>
+🌱 I’m currently learning Kotlin, Svelte and Go.<br><br>📫 How to reach me pro@limonanthony.com<br>
 
 
 ## 🌐 Socials:
