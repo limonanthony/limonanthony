@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Kotlin, Svelte and Go.<br><br>📫 How to reach me pro@limonanthony.com
+🌱 I’m currently learning Kotlin, Svelte, Go and .NET.<br><br>📫 How to reach me pro@limonanthony.com
 
 
 ## 🌐 Socials:
